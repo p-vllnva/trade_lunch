@@ -1,14 +1,6 @@
 ---
 title: Dauphine Trade Lunches
 output-file: dauphine_trade_lunches.html
-output:
-  html:
-    theme: lux
-    smooth-scroll: true
-    anchor-sections: true
-    link-external-newwindow: true
-    embed-resources: true
-linkcolor: blue
 ---
 
 # Description
@@ -28,7 +20,7 @@ technical.
 
 ## Coming
 
-- 2023-12-06: *TBD* 
+*TBD* 
 
 ## Past
 
