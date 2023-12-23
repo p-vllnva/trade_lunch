@@ -1,32 +1,37 @@
 ---
 title: Dauphine Trade Lunches
-output-file: dauphine_trade_lunches.html
+date: last-modified
+date-format: MMM D, YYYY
+title-block-banner: "#2F4486"
 ---
 
-# Description
-
-The trade lunches were launched three (2?) years ago by fellow Dauphine PhD
-student Matteo (it is the case right?). Its objective is twofold, it is a way to
-keep economists interested in trade up to date with the research of their junior
-fellows and it provides said juniors with an opportunity to present their
-research in a relaxed environment.
+The trade lunches were launched in 2021 by Farid Toubal and Gianluca Orefice.
+Its objective is twofold, it is a way to keep economists interested in trade up
+to date with the research of their junior fellows and to provide said juniors
+with an opportunity to present their research in a relaxed environment.
 
 These presentations are informal, without support and generally not overly
 technical.
+
+Monthly meetings scheduled via doodle. In an attempt to maximize senior
+attendance, the default dates are Tuesdays and Wednesdays but we can be
+flexible.
+
+If the supply of presentation is high, more slots will be added.
 
 # Schedule
 
 ::: {.panel-tabset}
 
-## Coming
+## Upcoming
 
 *TBD* 
 
-## Past
+## Archives
 
-- 2023-10-18: [Romaine Loubes](<romaine.loubes@psemail.eu>), "Trade-displaced or Trade-stuck? Self-employed Workers and Adaptation to Trade Shocks in Low-income Countries".
+- 2023-10-18: [Romaine Loubes](https://rloubes.github.io/Website/), "Trade-displaced or Trade-stuck? Self-employed Workers and Adaptation to Trade Shocks in Low-income Countries".
 
-- 2023-11-22: [Gianluca Orefice](<gianluca.orefice@dauphine.psl.eu>) "Trump Tariffs and French Firms".
+- 2023-11-22: [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/) "Trump Tariffs and French Firms".
 
 :::
 
@@ -38,45 +43,37 @@ technical.
 
 The university is located on the [place du Maréchal de Lattre de Tassigny](<https://www.google.fr/maps/place/Universit%C3%A9+Paris+Dauphine-PSL/@48.8701545,2.2551657,15z/data=!3m2!4b1!5s0x47e665599dad468d:0xfe2b8a1bb55dd3f1!4m6!3m5!1s0x47e6655922d250b7:0x3393b4fa95ac9e83!8m2!3d48.8701419!4d2.2736197!16zL20vMGJiMTY5?entry=ttu>). Please find the nearest public transportation stops below.
 
-- ![](http://www.memo-flash.com/upload/552/ligne-2.png){fig-align="left" width=10%}: Porte Dauphine
+- ![](http://www.memo-flash.com/upload/552/ligne-2.png){fig-align="left" width=10%} Porte Dauphine
 
-- ![](https://www.sncf-connect.com/assets/styles/image_scale_width_750/public/media/2021-12/logo-rer-c-redimensionne.jpg){fig-align="left" width=10%}: Avenue Foch
+- ![](https://www.sncf-connect.com/assets/styles/image_scale_width_750/public/media/2021-12/logo-rer-c-redimensionne.jpg){fig-align="left" width=10%} Avenue Foch
 
-- ![](https://www.bougerenville.com/wp-content/uploads/2019/01/bus-pc-paris.jpg){fig-align="left" width=10%}: Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
+- ![](https://www.bougerenville.com/wp-content/uploads/2019/01/bus-pc-paris.jpg){fig-align="left" width=10%} Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
 
 - ![](https://www.mobilys.net/images/tram/paris/t3b.png){fig-align="left" width=10%} (in construction, projected opening in spring 2024)
-
-## Frequency 
-
-Monthly meetings scheduled via doodle. In an attempt to maximize senior
-attendance, the default dates are Tuesdays and Wednesdays but we can be
-flexible.
-
-If the supply of presentation is high, more slots will be added.
 
 ## Regular participants
 
 - Professors:
-  + [Farid Toubal](<https://faridtoubal.com/>)
-  + [Gianluca Orefice](<https://sites.google.com/site/oreficegianluca/home/>)
+  + [Farid Toubal](https://faridtoubal.com/)
+  + [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/)
 
 - Post-docs:
-  + Giulio Vannelli
+  + [Elodie Andrieu](https://elodieandrieu.github.io/)
+  + [Giulio Vannelli](https://www.giuliovannelli.com/)
   
 - PhDs:
+  + [Ninon Moreau-Kastler](https://ninonmoreaukastler.com/)
   + Matteo Neri--Lainé
-  <!-- + Anthonin Levelu -->
+  + Anthonin Levelu
   <!-- + Paul-Emile Bernard -->
   + Malte Thie
   + Peio Villanueva
 
-## Contact
+## Contact {#sec-contact}
 
 For any supplemental information or if you wish to be added to the mailing list,
 feel free to reach out at:
 
 - ![](https://openclipart.org/image/2400px/svg_to_png/196965/mono-email.png){fig-align="left" width=10%}: <peio.villanueva@dauphine.psl.eu>
-
-- ![](https://www.clipartmax.com/png/full/448-4482128_3296-5000-phone-icon-for-resume.png){fig-align="left" width=10%}: +33677306570
 
 :::
