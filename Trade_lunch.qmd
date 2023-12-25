@@ -1,7 +1,5 @@
 ---
 title: Dauphine Trade Lunches
-date: last-modified
-date-format: MMM D, YYYY
 title-block-banner: "#2F4486"
 ---
 
@@ -74,6 +72,6 @@ The university is located on the [place du Maréchal de Lattre de Tassigny](<htt
 For any supplemental information or if you wish to be added to the mailing list,
 feel free to reach out at:
 
-- ![](https://openclipart.org/image/2400px/svg_to_png/196965/mono-email.png){fig-align="left" width=10%}: <peio.villanueva@dauphine.psl.eu>
+![](https://openclipart.org/image/2400px/svg_to_png/196965/mono-email.png){fig-align="left" width=10%} <peio.villanueva@dauphine.psl.eu>
 
 :::

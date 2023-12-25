@@ -9,5 +9,9 @@ format:
     anchor-sections: true
     link-external-newwindow: true
     embed-resources: true
+css: styles.css
 
 linkcolor: blue
+
+date: last-modified
+date-format: MMM D, YYYY
