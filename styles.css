@@ -1,10 +1,9 @@
 .quarto-title-block .quarto-title-banner {
-  background-image: url(C://Tout/PhD/PhD/beamer/dauphine_psl_logo.png);
-  background-size: 300px;
-  background-position: left;
+  background-image: url(https://dauphine.psl.eu/_assets/4ad852879daddd0ddb4f19951dc58cb9/assets/img/logo/logo_white.svg);
+  background-size: 15%;
+  background-origin: padding-box;
+  background-position: center top 8%;
   background-repeat: no-repeat;
-  padding-left: 45px;
-  background-origin: content-box;
 }
 
 #title-block-header > div.quarto-title-banner.page-columns.page-full {
@@ -14,18 +13,14 @@
   justify-items: center;
 }
 
-.title {
-  color:white;
-}
-
 .quarto-title-meta > div:nth-child(1) {
-  color: rgb(47, 68, 134);
+  color: #1c2850;
 }
 
-#schedule > h1:nth-child(1) {
-  color: rgb(47, 68, 134);
+#sec-sched > h1:nth-child(1) {
+  color: #2e4588;
 }
 
 #practical-information > h1:nth-child(1) {
-  color: rgb(47, 68, 134);
+  color: #2e4588;
 }

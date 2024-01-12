@@ -1,23 +1,27 @@
 ---
-title: Dauphine Trade Lunches
-title-block-banner: "#2F4486"
+title: Trade Lunches
+title-block-banner: "#2e4588"
+title-block-banner-color: white
 ---
 
-The trade lunches were launched in 2021 by Farid Toubal and Gianluca Orefice.
-The aim of these meetings is twofold, it is a way to keep economists interested
-in trade up to date with the research of their junior fellows and it provide the
-juniors with an opportunity to present their research in a relaxed environment.
+<!-- Ligther blue #2e4588 -->
+<!-- Darker blue "#1c2850" -->
 
-Each lunch, serves as the setting for an informal presentation, without support.
+The trade lunches were launched in 2021 by Gianluca Orefice and Farid Toubal.
+The aim of these meetings is twofold, it is a way to keep economists interested
+in globalization up to date with the work of their junior fellows and to provide
+the young researchers with an opportunity to present their research in a small
+committee.
+
+Each lunch, serves as the setting for an informal presentation without support.
 These presentations are generally not overly technical and should be seen as an
-opportunity to present early or in progress work that you might no feel
-comfortable presenting in a more formal context yet.
+opportunity to gather valuable feedback on early or in progress work that you
+might not feel comfortable presenting in a more formal context yet.
 
 The trade lunch is a monthly event, scheduled via doodle. In an attempt to
-maximize senior attendance, you should expect sessions on Tuesdays or
-Wednesdays. We will of course try to find another slot to accommodate the
-presenter if needed. We might also add more slots should the supply prove
-inadequate.
+maximize senior attendance, you should expect sessions to take place on Tuesdays
+or Wednesdays. We will of course try to find another slot to accommodate the
+presenter if needed.
 
 # Schedule {#sec-sched}
 
