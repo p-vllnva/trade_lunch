@@ -31,7 +31,7 @@ presenter if needed.
 
 - 2024-01-24: *TBD*
 
-- 2024-02-28: *TBD*
+- 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu)
 
 - 2024-03-20: *TBD*
 
@@ -77,7 +77,7 @@ Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
   + [Ninon Moreau-Kastler](https://ninonmoreaukastler.com/)
   + Matteo Neri--Lainé
   + Anthonin Levelu
-  <!-- + Paul-Emile Bernard -->
+  + Paul-Emile Bernard
   + Malte Thie
   + Peio Villanueva
 
