@@ -4,9 +4,6 @@ title-block-banner: "#2e4588"
 title-block-banner-color: white
 ---
 
-<!-- Ligther blue #2e4588 -->
-<!-- Darker blue "#1c2850" -->
-
 The trade lunches were launched in 2021 by Gianluca Orefice and Farid Toubal.
 The aim of these meetings is twofold, it is a way to keep economists interested
 in globalization up to date with the work of their junior fellows and to provide
@@ -28,8 +25,6 @@ presenter if needed.
 ::: {.panel-tabset}
 
 ## Upcoming
-
-- 2024-01-24: *TBD*
 
 - 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu)
 
