@@ -4,11 +4,11 @@ title-block-banner: "#2e4588"
 title-block-banner-color: white
 ---
 
-The trade lunches were launched in 2021 by Gianluca Orefice and Farid Toubal.
-The aim of these meetings is twofold, it is a way to keep economists interested
-in globalization up to date with the work of their junior fellows and to provide
-the young researchers with an opportunity to present their research in a small
-committee.
+The trade lunches were launched in 2021 by [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/)
+and [Farid Toubal](https://faridtoubal.com/). The aim of these meetings is
+twofold, it is a way to keep economists interested in globalization up to date
+with the work of their junior fellows and to provide the young researchers with
+an opportunity to present their research in a small committee.
 
 Each lunch, serves as the setting for an informal presentation without support.
 These presentations are generally not overly technical and should be seen as an
@@ -26,11 +26,11 @@ presenter if needed.
 
 ## Upcoming
 
-- 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu) "Resource Allocation and the Trade War"
-
-- 2024-03-20: *TBD*
+- 2024-03-20: [Simon Muchardt](mailto:simon.muchardt@dauphine.psl.eu) "Corporate philanthropy and taxation in France"
 
 ## Archives
+
+- 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu) "Resource Allocation and the Trade War"
 
 - 2023-11-22: [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/) "Trump Tariffs and French Firms"
 
@@ -38,7 +38,7 @@ presenter if needed.
 
 :::
 
-# Practical information
+# Practical information {#sec-info}
 
 ::: {.panel-tabset}
 
@@ -56,13 +56,13 @@ Avenue Foch
 Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
 
 - ![](https://www.mobilys.net/images/tram/paris/t3b.png){fig-align="left" width=10%}
-(in construction, projected opening in spring 2024)
+(tests in progress, projected opening in April 2024)
 
 ## Regular participants
 
 - Professors:
-  + [Farid Toubal](https://faridtoubal.com/)
   + [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/)
+  + [Farid Toubal](https://faridtoubal.com/)
 
 - Post-docs:
   + [Elodie Andrieu](https://elodieandrieu.github.io/)
@@ -76,7 +76,7 @@ Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
   + Malte Thie
   + Peio Villanueva
 
-## Contact {#sec-contact}
+## Contact
 
 For any supplemental information or if you wish to be added to the mailing list,
 feel free to reach out at:
