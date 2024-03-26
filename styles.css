@@ -21,10 +21,6 @@
   color: #2e4588;
 }
 
-#sec-sched > h1:nth-child(1) {
-  color: #2e4588;
-}
-
-#sec-info > h1:nth-child(1) {
+h1 {
   color: #2e4588;
 }
