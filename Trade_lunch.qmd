@@ -2,6 +2,11 @@
 title: Trade Lunches
 title-block-banner: "#2e4588"
 title-block-banner-color: white
+toc: true
+toc-depth: 1
+toc-title: ""
+toc-location: left
+format: html
 ---
 
 The trade lunches were launched in 2021 by [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/)
@@ -26,15 +31,19 @@ presenter if needed.
 
 ## Upcoming
 
-- 2024-03-20: [Simon Muchardt](mailto:simon.muchardt@dauphine.psl.eu) "Corporate philanthropy and taxation in France"
+- 2024-04-10: [Anthonin Levelu](mailto:anthonin.levelu@dauphine.psl.eu) "Import Competition and the Role of Self-Employed Workers."
+
+- 2024-05-22: TBD
 
 ## Archives
 
-- 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu) "Resource Allocation and the Trade War"
+- 2024-03-20: [Simon Muchardt](mailto:simon.muchardt@dauphine.psl.eu) "Corporate Philanthropy and Taxation in France."
 
-- 2023-11-22: [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/) "Trump Tariffs and French Firms"
+- 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu) "Resource Allocation and the Trade War."
 
-- 2023-10-18: [Romaine Loubes](https://rloubes.github.io/Website/), "Trade-displaced or Trade-stuck? Self-employed Workers and Adaptation to Trade Shocks in Low-income Countries"
+- 2023-11-22: [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/) "Trump Tariffs and French Firms."
+
+- 2023-10-18: [Romaine Loubes](https://rloubes.github.io/Website/), "Trade-displaced or Trade-stuck? Self-employed Workers and Adaptation to Trade Shocks in Low-income Countries."
 
 :::
 

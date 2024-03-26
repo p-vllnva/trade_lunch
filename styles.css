@@ -17,10 +17,14 @@
   color: #1c2850;
 }
 
+#TOC > ul:nth-child(1) {
+  color: #2e4588;
+}
+
 #sec-sched > h1:nth-child(1) {
   color: #2e4588;
 }
 
-#practical-information > h1:nth-child(1) {
+#sec-info > h1:nth-child(1) {
   color: #2e4588;
 }

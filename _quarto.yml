@@ -7,9 +7,10 @@ format:
     theme: lux
     smooth-scroll: true
     anchor-sections: true
+    link-external-icon: true
     link-external-newwindow: true
     embed-resources: true
-css: styles.css
+    css: styles.css
 
 linkcolor: "#2e4588"
 
