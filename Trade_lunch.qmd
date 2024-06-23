@@ -31,11 +31,11 @@ presenter if needed.
 
 ## Upcoming
 
-- 2024-04-10: [Anthonin Levelu](mailto:anthonin.levelu@dauphine.psl.eu) "Import Competition and the Role of Self-Employed Workers."
-
-- 2024-05-22: TBD
+- 2024-07-??: TBD
 
 ## Archives
+
+- 2024-04-10: [Anthonin Levelu](mailto:anthonin.levelu@dauphine.psl.eu) "Import Competition and the Role of Self-Employed Workers."
 
 - 2024-03-20: [Simon Muchardt](mailto:simon.muchardt@dauphine.psl.eu) "Corporate Philanthropy and Taxation in France."
 
@@ -64,8 +64,7 @@ Avenue Foch
 - ![](https://www.bougerenville.com/wp-content/uploads/2019/01/bus-pc-paris.jpg){fig-align="left" width=10%}
 Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
 
-- ![](https://www.mobilys.net/images/tram/paris/t3b.png){fig-align="left" width=10%}
-(tests in progress, projected opening in April 2024)
+- ![](https://www.mobilys.net/images/tram/paris/t3b.png){fig-align="left" width=10%} Porte Dauphine
 
 ## Regular participants
 
