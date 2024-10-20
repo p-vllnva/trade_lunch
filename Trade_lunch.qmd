@@ -9,11 +9,24 @@ toc-location: left
 format: html
 ---
 
-The trade lunches were launched in 2021 by [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/)
-and [Farid Toubal](https://faridtoubal.com/). The aim of these meetings is
-twofold, it is a way to keep economists interested in globalization up to date
-with the work of their junior fellows and to provide the young researchers with
-an opportunity to present their research in a small committee.
+```{r classicdutchcooking}
+cook_apetizer <- function(title, text) {
+  
+  glue::glue(
+    "<details>
+      <summary> {title} </summary>
+      <p> {text} </p>
+    </details> "
+  )
+}
+```
+
+
+The trade lunches were launched in 2021 by [Gianluca Orefice] and
+[Farid Toubal]. The aim of these meetings is twofold, it is a way to keep
+economists interested in globalization up to date with the work of their junior
+fellows and to provide the young researchers with an opportunity to present
+their research in a small committee.
 
 Each lunch, serves as the setting for an informal presentation without support.
 These presentations are generally not overly technical and should be seen as an
@@ -28,29 +41,35 @@ presenter if needed.
 # Schedule {#sec-sched}
 
 ::: {.panel-tabset}
-
 ## Upcoming
 
-- 2024-07-??: TBD
+- 2024-10-30: [Paul-Emile Bernard],  ""
+
+- 2024-11-19:
+
+- 2024-12-11:
 
 ## Archives
 
-- 2024-04-10: [Anthonin Levelu](mailto:anthonin.levelu@dauphine.psl.eu) "Import Competition and the Role of Self-Employed Workers."
+- 2024-04-10: [Anthonin Levelu],
+"Import Competition and Outsourcing to Individual Workers"
+`r cook_apetizer("Abtract", "Firms facing higher import competition resort to adaptive strategies to maintain competitiveness. While previous literature focused on general labor effects and reallocation, little is known about self-employed workers. This paper aims to study import competition and outsourcing to solo self-employed. At the aggregate level (EU - NUTS) our preliminary findings reveal that regions facing intensified import competition from China exhibit higher self-employed workers relative to their total workforce, controlling for country, region, and industry characteristics. The next step is to disentangle whether firms are indeed replacing traditional employees with solo self-employed when facing financial hardship, using French administrative data.")`
 
-- 2024-03-20: [Simon Muchardt](mailto:simon.muchardt@dauphine.psl.eu) "Corporate Philanthropy and Taxation in France."
+- 2024-03-20: [Simon Muchardt], 
+"Impact of Tax Breaks on Corporate Charitable Donations in France"
 
-- 2024-02-28: [Paul-Emile Bernard](mailto:paul-emile.bernard@dauphine.psl.eu) "Resource Allocation and the Trade War."
+- 2024-02-28: [Paul-Emile Bernard],  "Resource Allocation and the Trade War"
 
-- 2023-11-22: [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/) "Trump Tariffs and French Firms."
+- 2023-11-22: [Gianluca Orefice], "Trump Tariffs and French Firms"
 
-- 2023-10-18: [Romaine Loubes](https://rloubes.github.io/Website/), "Trade-displaced or Trade-stuck? Self-employed Workers and Adaptation to Trade Shocks in Low-income Countries."
-
+- 2023-10-18: [Romaine Loubes](https://rloubes.github.io/Website),
+"Trade-Displaced or Trade-Stuck? Self-Employment, Gendered Outside options and
+Trade Shocks Adaptation"
 :::
 
 # Practical information {#sec-info}
 
 ::: {.panel-tabset}
-
 ## Coming to Dauphine
 
 The university is located on the [place du Maréchal de Lattre de Tassigny](<https://www.google.fr/maps/place/Universit%C3%A9+Paris+Dauphine-PSL/@48.8701545,2.2551657,15z/data=!3m2!4b1!5s0x47e665599dad468d:0xfe2b8a1bb55dd3f1!4m6!3m5!1s0x47e6655922d250b7:0x3393b4fa95ac9e83!8m2!3d48.8701419!4d2.2736197!16zL20vMGJiMTY5?entry=ttu>). Please find the nearest public transportation stops below.
@@ -69,26 +88,41 @@ Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
 ## Regular participants
 
 - Professors:
-  + [Gianluca Orefice](https://sites.google.com/site/oreficegianluca/home/)
-  + [Farid Toubal](https://faridtoubal.com/)
+  + [Gianluca Orefice]
+  + [Farid Toubal]
 
 - Post-docs:
-  + [Elodie Andrieu](https://elodieandrieu.github.io/)
-  + [Giulio Vannelli](https://www.giuliovannelli.com/)
+  + [Elodie Andrieu]
+  + [Ninon Moreau-Kastler]
+  + [Matteo Neri--Lainé]
   
 - PhDs:
-  + [Ninon Moreau-Kastler](https://ninonmoreaukastler.com/)
-  + Matteo Neri--Lainé
-  + Anthonin Levelu
-  + Paul-Emile Bernard
-  + Malte Thie
+  + [Paul-Emile Bernard]
+  + [Anthonin Levelu]
+  + [Malte Thie]
   + Peio Villanueva
+  + [Simon Muchardt]
+  + [Andrea Andrenelli]
+  <!-- + Chaimaa Chawki  -->
+  <!-- + Kai Sun -->
 
 ## Contact
 
 For any supplemental information or if you wish to be added to the mailing list,
 feel free to reach out at:
 
-![](https://openclipart.org/image/2400px/svg_to_png/196965/mono-email.png){fig-align="left" width=10%} <peio.villanueva@dauphine.psl.eu>
-
+![](https://openclipart.org/image/2400px/svg_to_png/196965/mono-email.png){fig-align="left" width=10%} <mailto:peio.villanueva@dauphine.psl.eu>
 :::
+
+<!-- Links -->
+[Andrea Andrenelli]: mailto:andrea.andrenelli@dauphine.psl.eu
+[Elodie Andrieu]: https://elodieandrieu.github.io
+[Anthonin Levelu]: https://anthoninlevelu.github.io
+[Paul-Emile Bernard]: mailto:paul-emile.bernard@dauphine.psl.eu
+[Matteo Neri--Lainé]: https://matteoneri-laine.wixsite.com/matteonerilaine
+[Ninon Moreau-Kastler]: https://ninonmoreaukastler.com
+[Simon Muchardt]: https://www.simonmuchardt.com
+[Gianluca Orefice]: https://sites.google.com/site/oreficegianluca/home
+[Malte Thie]: https://maltethie.com
+[Farid Toubal]: https://faridtoubal.com
+<!-- [Peio Villanueva]: https://p-vllnva.github.io -->

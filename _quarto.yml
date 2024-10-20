@@ -16,3 +16,6 @@ linkcolor: "#2e4588"
 
 date: last-modified
 date-format: MMM D, YYYY
+
+execute: 
+  echo: false
