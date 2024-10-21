@@ -1,5 +1,3 @@
-_output
-.quarto
-arrow.svg
-
+/_output/
 /.quarto/
+/arrow.svg
