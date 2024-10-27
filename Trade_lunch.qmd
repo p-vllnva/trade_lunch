@@ -43,7 +43,7 @@ presenter if needed.
 ::: {.panel-tabset}
 ## Upcoming
 
-- 2024-10-30: [Paul-Emile Bernard],  ""
+- 2024-10-30: [Paul-Emile Bernard], "Chinese Industrial Policies and Firms' Competitiveness"
 
 - 2024-11-19:
 
@@ -100,7 +100,7 @@ Longchamp or Porte Dauphine - M^al^ de Lattre de Tassigny
   + [Paul-Emile Bernard]
   + [Anthonin Levelu]
   + [Malte Thie]
-  + Peio Villanueva
+  + [Peio Villanueva]
   + [Simon Muchardt]
   + [Andrea Andrenelli]
   <!-- + Chaimaa Chawki  -->
@@ -125,4 +125,5 @@ feel free to reach out at:
 [Gianluca Orefice]: https://sites.google.com/site/oreficegianluca/home
 [Malte Thie]: https://maltethie.com
 [Farid Toubal]: https://faridtoubal.com
+[Peio Villanueva]: mailto:peio.villanueva@dauphine.psl.eu
 <!-- [Peio Villanueva]: https://p-vllnva.github.io -->
