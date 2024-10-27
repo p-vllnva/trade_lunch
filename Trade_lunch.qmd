@@ -21,7 +21,6 @@ cook_apetizer <- function(title, text) {
 }
 ```
 
-
 The trade lunches were launched in 2021 by [Gianluca Orefice] and
 [Farid Toubal]. The aim of these meetings is twofold, it is a way to keep
 economists interested in globalization up to date with the work of their junior
