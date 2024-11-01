@@ -42,13 +42,15 @@ presenter if needed.
 ::: {.panel-tabset}
 ## Upcoming
 
-- 2024-10-30: [Paul-Emile Bernard], "Chinese Industrial Policies and Firms' Competitiveness"
-
-- 2024-11-19:
+- 2024-11-19: [Andrea Andrenelli],
+"Trade Creation and Destruction from Product-Specific Shocks"
 
 - 2024-12-11:
 
 ## Archives
+
+- 2024-10-30: [Paul-Emile Bernard],
+"Chinese Industrial Policies and Firms' Competitiveness"
 
 - 2024-04-10: [Anthonin Levelu],
 "Import Competition and Outsourcing to Individual Workers"
