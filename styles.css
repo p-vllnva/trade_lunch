@@ -44,3 +44,12 @@ details > summary::after {
 details[open] > summary::after {
   transform: rotate(90deg);
 }
+
+.icon {
+  width: 1em;
+  height: 1em;
+  display: inline;
+  margin-right: 4px;
+  vertical-align: center;
+  margin-left: 0;
+}
