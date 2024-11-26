@@ -10,7 +10,8 @@ format: html
 ---
 
 ```{r classicdutchcooking}
-cook_apetizer <- function(title, text) {
+ph <- "This is a placeholder text to be replaced by an actual description of the projcet if the speaker agrees to have it online."
+cook_apetizer <- function(title, text = ph) {
   
   glue::glue(
     "<details>
@@ -56,12 +57,12 @@ presenter if needed.
 ::: {.panel-tabset}
 ## Upcoming
 
-- 2024-11-19: [Andrea Andrenelli],
-"Trade Creation and Destruction from Product-Specific Shocks"
-
-- 2024-12-11:
+- 2024-12-11: [Ninon Moreau-Kastler], "TBA" `r cook_apetizer("More")`
 
 ## Archives
+
+- 2024-11-19: [Andrea Andrenelli],
+"Trade Creation and Destruction from Product-Specific Shocks"
 
 - 2024-10-30: [Paul-Emile Bernard],
 "Chinese Industrial Policies and Firms' Competitiveness"
