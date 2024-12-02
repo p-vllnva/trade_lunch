@@ -57,7 +57,7 @@ presenter if needed.
 ::: {.panel-tabset}
 ## Upcoming
 
-- 2024-12-11: [Ninon Moreau-Kastler], "TBA" `r cook_apetizer("More")`
+- 2024-12-11: [Ninon Moreau-Kastler], "Sanctions and State Capture in Myanmar Tax Administration" `r cook_apetizer("More")`
 
 ## Archives
 
