@@ -11,7 +11,7 @@ format: html
 
 ```{r classicdutchcooking}
 ph <- "This is a placeholder text to be replaced by an actual description of the projcet if the speaker agrees to have it online."
-cook_apetizer <- function(title, text = ph) {
+cook_apetizer <- function(title = "More", text = ph) {
   
   glue::glue(
     "<details>
@@ -57,7 +57,8 @@ presenter if needed.
 ::: {.panel-tabset}
 ## Upcoming
 
-- 2024-12-11: [Ninon Moreau-Kastler], "Sanctions and State Capture in Myanmar Tax Administration" `r cook_apetizer("More")`
+- 2024-12-11: [Ninon Moreau-Kastler],
+"Sanctions and State Capture in Myanmar Tax Administration"
 
 ## Archives
 
