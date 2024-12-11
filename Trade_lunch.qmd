@@ -57,10 +57,16 @@ presenter if needed.
 ::: {.panel-tabset}
 ## Upcoming
 
-- 2024-12-11: [Ninon Moreau-Kastler],
-"Sanctions and State Capture in Myanmar Tax Administration"
+- 2025-01-TBD, "TBA"
+
+- 2025-02-TBD, "TBA"
+
+- 2025-03-TBD, "TBA"
 
 ## Archives
+
+- 2024-12-11: [Ninon Moreau-Kastler],
+"Sanctions and State Capture in Myanmar Tax Administration"
 
 - 2024-11-19: [Andrea Andrenelli],
 "Trade Creation and Destruction from Product-Specific Shocks"
